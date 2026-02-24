@@ -1,0 +1,5 @@
+for manually running purpose
+
+//Compile and Run using 
+//javac TicTacToeAI.java
+//java TicTacToeAI
